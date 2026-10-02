@@ -1,1 +1,2 @@
 TEST TEXT 2
+new text
